@@ -1,2 +1,2 @@
-# Codeit_sprint_DA_6_mid_project_1
+# Codeit_Sprint_DA_6_중급_프로젝트_1
 
