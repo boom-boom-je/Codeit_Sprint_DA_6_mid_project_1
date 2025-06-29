@@ -84,4 +84,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 - **분석 도구:** pandas, numpy, matplotlib, seaborn
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> 
+
 - **환경:** Jupyter Notebook(Google Colaboratory, VSCode)
