@@ -15,7 +15,7 @@
 
 **데이터 출처**
 
-  - Codeit 제공 채용 플랫폼 로그 데이터
+  - 채용 플랫폼 제공
 
 ## ✨ 개선안
 ![개선안](https://github.com/user-attachments/assets/98a1a76a-0e02-4712-bad8-7b2869cac75a)
