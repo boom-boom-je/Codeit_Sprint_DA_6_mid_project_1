@@ -76,3 +76,9 @@
 ## 💡 전략 제안
 
 ![3](https://github.com/user-attachments/assets/ec4874c6-2806-4052-a72d-1c709a18d0d1)
+
+## 🛠 사용 도구 및 라이브러리
+
+- **언어:** Python
+- **분석 도구:** pandas, numpy, matplotlib, seaborn
+- **환경:** Jupyter Notebook(Google Colaboratory, VSCode)
