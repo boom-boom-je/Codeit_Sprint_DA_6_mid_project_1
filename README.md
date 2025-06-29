@@ -79,7 +79,6 @@
 
 ## 🛠 사용 도구 및 라이브러리
 
-- **언어:** Python
-- ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+- **언어:** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 - **분석 도구:** pandas, numpy, matplotlib, seaborn
 - **환경:** Jupyter Notebook(Google Colaboratory, VSCode)
