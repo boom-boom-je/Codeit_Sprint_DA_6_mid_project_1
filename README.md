@@ -74,3 +74,5 @@
 
 
 ## 💡 전략 제안
+
+![3](https://github.com/user-attachments/assets/ec4874c6-2806-4052-a72d-1c709a18d0d1)
