@@ -53,15 +53,15 @@
 
   - 합격자
 
-     ![합격자](https://github.com/user-attachments/assets/d646e365-ef7c-4012-85a9-f5d896146f9b)
+![합격자](https://github.com/user-attachments/assets/d646e365-ef7c-4012-85a9-f5d896146f9b)
 
   - 불합격자
 
-     ![불합격자](https://github.com/user-attachments/assets/3ae8560f-3c4a-4907-8d08-4aa19fbaa012)
+![불합격자](https://github.com/user-attachments/assets/3ae8560f-3c4a-4907-8d08-4aa19fbaa012)
 
 **3. 합격자/불합격자간 지원 단계별 체류시간 분포**
 
-    ![1](https://github.com/user-attachments/assets/54387218-14bd-4021-987a-ff495c97edd2)
+![1](https://github.com/user-attachments/assets/54387218-14bd-4021-987a-ff495c97edd2)
 
      
 ## 💡 전략 제안
