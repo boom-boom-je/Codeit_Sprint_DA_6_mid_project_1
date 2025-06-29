@@ -79,20 +79,9 @@
 
 ## 🛠 사용 도구 및 라이브러리
 
-- **언어:** python
+- **언어:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-- **분석 도구:** pandas, numpy, matplotlib, seaborn
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-2D708EFF?style=for-the-badge&logo=seaborn&logoColor=white)
+- **분석 도구:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-2D708EFF?style=for-the-badge&logo=seaborn&logoColor=white)
 
 - **환경:** Jupyter Notebook(Google Colaboratory, VSCode)
 
