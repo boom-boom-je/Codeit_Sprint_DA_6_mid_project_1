@@ -37,6 +37,6 @@
       - 회원가입 이후 지원활동 내에서 지원 완료 없이 이탈하는 경우가 많아 전환까지 도달하는데에 어려움을 보임
   - **Segment별 Retention 경향 차이**
   1. 합격자
-      - ㅇ
+  ![합격자](https://github.com/user-attachments/assets/d646e365-ef7c-4012-85a9-f5d896146f9b)
   2. 불합격자
-      - ㅇ
+  ![불합격자](https://github.com/user-attachments/assets/3ae8560f-3c4a-4907-8d08-4aa19fbaa012)
